@@ -1,5 +1,5 @@
 {
-  "version": "2026-03-15T20:59:27Z",
+  "version": "2026-03-15T21:55:12Z",
   "generated_by": "sync-minerva-manifest.yml",
   "app": "minerva-ios",
   "pack_count": 2,
@@ -11,7 +11,7 @@
       "tag": "region-packs-v1",
       "version": "region-packs-v1",
       "published_at": "2026-03-15T01:39:48Z",
-      "size_bytes": 813854720,
+      "size_bytes": 813056000,
       "download_url": "https://github.com/Think-Forward-Studios/helios-packs-alabama/releases/download/region-packs-v1/alabama-standard.regionpack.tar"
     },
     {
