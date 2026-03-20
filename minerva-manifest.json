@@ -1,8 +1,8 @@
 {
-  "version": "2026-03-20T07:59:40Z",
+  "version": "2026-03-20T10:05:51Z",
   "generated_by": "sync-minerva-manifest.yml",
   "app": "minerva-ios",
-  "pack_count": 4,
+  "pack_count": 7,
   "regions": [
     {
       "id": "alabama-standard",
@@ -43,6 +43,36 @@
       "published_at": "2026-03-15T01:39:50Z",
       "size_bytes": 771160576,
       "download_url": "https://github.com/Think-Forward-Studios/helios-packs-arkansas/releases/download/region-packs-v1/arkansas-standard.regionpack.tar"
+    },
+    {
+      "id": "colorado-standard",
+      "name": "colorado-standard",
+      "repo": "helios-packs-colorado",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:39:52Z",
+      "size_bytes": 1485105664,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-colorado/releases/download/region-packs-v1/colorado-standard.regionpack.tar"
+    },
+    {
+      "id": "connecticut-standard",
+      "name": "connecticut-standard",
+      "repo": "helios-packs-connecticut",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:39:53Z",
+      "size_bytes": 113717760,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-connecticut/releases/download/region-packs-v1/connecticut-standard.regionpack.tar"
+    },
+    {
+      "id": "delaware-standard",
+      "name": "delaware-standard",
+      "repo": "helios-packs-delaware",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:39:54Z",
+      "size_bytes": 48869376,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-delaware/releases/download/region-packs-v1/delaware-standard.regionpack.tar"
     }
   ]
 }
