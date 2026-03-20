@@ -1,8 +1,8 @@
 {
-  "version": "2026-03-20T11:58:02Z",
+  "version": "2026-03-20T14:33:15Z",
   "generated_by": "sync-minerva-manifest.yml",
   "app": "minerva-ios",
-  "pack_count": 8,
+  "pack_count": 10,
   "regions": [
     {
       "id": "alabama-standard",
@@ -83,6 +83,26 @@
       "published_at": "2026-03-15T01:39:54Z",
       "size_bytes": 888123392,
       "download_url": "https://github.com/Think-Forward-Studios/helios-packs-florida/releases/download/region-packs-v1/florida-standard.regionpack.tar"
+    },
+    {
+      "id": "georgia-standard",
+      "name": "georgia-standard",
+      "repo": "helios-packs-georgia",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:39:56Z",
+      "size_bytes": 1072051200,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-georgia/releases/download/region-packs-v1/georgia-standard.regionpack.tar"
+    },
+    {
+      "id": "hawaii-standard",
+      "name": "hawaii-standard",
+      "repo": "helios-packs-hawaii",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:39:57Z",
+      "size_bytes": 192912896,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-hawaii/releases/download/region-packs-v1/hawaii-standard.regionpack.tar"
     }
   ]
 }
