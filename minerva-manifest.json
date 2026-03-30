@@ -1,8 +1,8 @@
 {
-  "version": "2026-03-30T03:17:24Z",
+  "version": "2026-03-30T06:01:25Z",
   "generated_by": "sync-minerva-manifest.yml",
   "app": "minerva-ios",
-  "pack_count": 29,
+  "pack_count": 30,
   "regions": [
     {
       "id": "alabama-standard",
@@ -293,6 +293,16 @@
       "published_at": "2026-03-15T01:40:16Z",
       "size_bytes": 37609984,
       "download_url": "https://github.com/Think-Forward-Studios/helios-packs-new-jersey/releases/download/region-packs-v1/new-jersey-standard.regionpack.tar"
+    },
+    {
+      "id": "new-mexico-standard",
+      "name": "new-mexico-standard",
+      "repo": "helios-packs-new-mexico",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:40:17Z",
+      "size_bytes": 374854656,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-new-mexico/releases/download/region-packs-v1/new-mexico-standard.regionpack.tar"
     }
   ]
 }
