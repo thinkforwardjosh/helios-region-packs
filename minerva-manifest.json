@@ -1,8 +1,8 @@
 {
-  "version": "2026-04-02T17:01:45Z",
+  "version": "2026-04-02T19:04:19Z",
   "generated_by": "sync-minerva-manifest.yml",
   "app": "minerva-ios",
-  "pack_count": 36,
+  "pack_count": 38,
   "regions": [
     {
       "id": "alabama-standard",
@@ -363,6 +363,26 @@
       "published_at": "2026-03-15T01:40:23Z",
       "size_bytes": 477630976,
       "download_url": "https://github.com/Think-Forward-Studios/helios-packs-oregon/releases/download/region-packs-v1/oregon-standard.regionpack.tar"
+    },
+    {
+      "id": "pennsylvania-standard",
+      "name": "pennsylvania-standard",
+      "repo": "helios-packs-pennsylvania",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:40:24Z",
+      "size_bytes": 204744192,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-pennsylvania/releases/download/region-packs-v1/pennsylvania-standard.regionpack.tar"
+    },
+    {
+      "id": "rhode-island-standard",
+      "name": "rhode-island-standard",
+      "repo": "helios-packs-rhode-island",
+      "tag": "region-packs-v1",
+      "version": "region-packs-v1",
+      "published_at": "2026-03-15T01:40:25Z",
+      "size_bytes": 6024704,
+      "download_url": "https://github.com/Think-Forward-Studios/helios-packs-rhode-island/releases/download/region-packs-v1/rhode-island-standard.regionpack.tar"
     }
   ]
 }
